@@ -2,7 +2,7 @@
 
 # How to Do
 
-[https://teknodice.com/](https://teknodice.com/ "www.teknodice.com")
+[https://teknodice.com/](https://teknodice.com/android-studio-ile-splash-screen-yapimi/ "www.teknodice.com")
 
 # Screen Shot
 
